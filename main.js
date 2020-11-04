@@ -19,6 +19,6 @@ function calculate(tipo, valor) {
   else if (tipo === 'valor') {
     document.querySelector(".input1").value += valor;
   }
-  console.log(valor)
+ // console.log(valor)
 
 };
